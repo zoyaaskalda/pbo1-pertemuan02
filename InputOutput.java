@@ -1,5 +1,5 @@
 public class InputOutput{
- public static void mai(String [] args){
+ public static void main(String [] args){
 
  }
 }
